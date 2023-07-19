@@ -4,3 +4,11 @@ def add(a, b):
 
 
 add(20, 10)
+
+
+def sub(a, b):
+    res = a - b
+    print(res)
+
+
+sub(20, 10)
